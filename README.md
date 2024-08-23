@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a0823f4c-9fd8-4461-b533-8dcfb3d0f71c)
+
 <h1 align="center">Hi 👋, I'm Raj Sharma</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 <img width="100%" alt"coding" src="https://media1.tenor.com/m/qJ5evVs-_uUAAAAC/coding.gif">
@@ -35,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobita41&show_icons=true&locale=en" alt="nobita41" /></p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
